@@ -6,8 +6,6 @@ permalink: /
 
 We publish our Bible study presentation notes in PDF form below. 
 
-If you haven't already, be sure to [join](https://bfmcanada.myflodesk.com/) our mailing list to keep up to date!
-
 ## The Good News - The Armour of God (2023)
 
 * [Part 1 - Introduction](./assets/studies/BFM_The_Good_News_Part_1_Introduction.pdf)
