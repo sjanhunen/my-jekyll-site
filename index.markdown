@@ -10,5 +10,5 @@ If you haven't already, be sure to [join](https://bfmcanada.myflodesk.com/) our 
 
 ## The Good News - The Armour of God (2023)
 
-* [Part 1 - Introduction](./BFM_The_Good_News_Part_1_Introduction.pdf)
-* [Part 2 - Belt of Truth](./BFM_The_Good_News_Part_2_Belt_of_Truth.pdf)
+* [Part 1 - Introduction](./assets/studies/BFM_The_Good_News_Part_1_Introduction.pdf)
+* [Part 2 - Belt of Truth](./assets/studies/BFM_The_Good_News_Part_2_Belt_of_Truth.pdf)
